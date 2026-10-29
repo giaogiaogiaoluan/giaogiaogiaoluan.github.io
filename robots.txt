@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giaogiaogiaoluan.github.io/sitemap.xml
